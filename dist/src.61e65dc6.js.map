@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":[],"mappings":";;;AAAA,aAAA,QAAA","file":"src.61e65dc6.js","sourceRoot":"..","sourcesContent":["import \"./styles.css\";\r\n\r\n// document.getElementById(\"app\").innerHTML = `\r\n// <button class=\"btn\">Hello world</button>\r\n// `;\r\n"]}
